@@ -24,7 +24,7 @@ I enjoy building practical projects and learning new technologies through hands-
 - 🐍 [Python Hangman Game](https://github.com/saherliaqat227-cell/CodeAlpha_HangmanGame)
 - 📊 [Seaborn Data Visualization](https://github.com/saherliaqat227-cell/Seaborn-Data-Visualization)
 - 🏠 [House Rent Prediction](https://github.com/saherliaqat227-cell/House-Rent-Prediction-ML)
-- 🐦 [Twitter Sentiment Analyzer](https://github.com/saherliaqat227-cell/twitter-sentiment-analyzer-3)
+- 🐦 [Twitter Sentiment Analyzer](https://github.com/saherliaqat227-cell/PythonProject)
 
 ### 🎓 Education
 
