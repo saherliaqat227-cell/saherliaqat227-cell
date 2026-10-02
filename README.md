@@ -2,44 +2,124 @@
 
 ### BS Information Technology Student | Python Developer | AI & Machine Learning | Backend Development
 
-I'm a BS Information Technology student with a strong interest in Python development, Artificial Intelligence, Machine Learning, and Backend Development.
+I'm a BS Information Technology student with a strong interest in **Python development, Artificial Intelligence, Machine Learning, and Backend Development**.
 
-I enjoy building practical projects and learning new technologies through hands-on development.
+I enjoy building practical projects and learning new technologies through hands-on development. I'm currently focused on strengthening my programming, machine learning, NLP, and backend development skills.
 
-### 🚀 What I Work With
+---
 
-- 🐍 Python
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning & NLP
-- 🌐 Streamlit
-- 🗄️ SQL & MySQL
-- 📊 Pandas, NumPy & Data Visualization
-- 🔧 Git & GitHub
-- 🔌 REST APIs
-- ⚡ FastAPI
+## 🚀 About Me
 
-### 📌 Featured Projects
+* 🎓 BS Information Technology — Minhaj University Lahore
+* 🐍 Interested in Python Development
+* 🤖 Learning Artificial Intelligence & Machine Learning
+* 🧠 Exploring Deep Learning & Natural Language Processing
+* 🌐 Building applications with Streamlit
+* 🔌 Learning REST APIs & FastAPI
+* 🗄️ Working with SQL & MySQL
+* 💼 Open to internship and entry-level opportunities
 
-- 🧮 [Scientific Calculator](https://saher-calculatorr.streamlit.app/)
-- 🐍 [Python Hangman Game](https://github.com/saherliaqat227-cell/CodeAlpha_HangmanGame)
-- 📊 [Seaborn Data Visualization](https://github.com/saherliaqat227-cell/Seaborn-Data-Visualization)
-- 🏠 [House Rent Prediction](https://github.com/saherliaqat227-cell/House-Rent-Prediction-ML)
-- 🐦 [Twitter Sentiment Analyzer](https://github.com/saherliaqat227-cell/PythonProject)
+---
 
-### 🎓 Education
+## 🛠️ Tech Stack
 
-**BS Information Technology**  
-Minhaj University Lahore  
-2023 – Present
+**Programming**
 
-### 📜 Certifications & Training
+* Python
+* SQL
 
-- Microsoft Certified: Azure AI Fundamentals
-- Python Programming
-- Artificial Intelligence Training — NAVTTC
+**AI & Machine Learning**
 
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Scikit-learn
+* TensorFlow
 
-### 📫 Connect With Me
+**Data & Visualization**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saher-liaqat-27b5153b0/)
-- 🐙 [GitHub](https://github.com/saherliaqat227-cell)
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+**Development**
+
+* Streamlit
+* REST APIs
+* FastAPI
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+* Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🧮 Scientific Calculator
+
+Interactive scientific calculator built with Python and Streamlit.
+
+🔗 [Live Demo](https://saher-calculatorr.streamlit.app/)
+🔗 [GitHub Repository](https://github.com/saherliaqat227-cell/Scientific-Calculator)
+
+### 🐦 Twitter Sentiment Analyzer
+
+NLP-based sentiment analysis project using Machine Learning and Deep Learning models.
+
+**Models:** SVM, Simple RNN, LSTM, GRU
+
+🔗 [GitHub Repository](https://github.com/saherliaqat227-cell/PythonProject)
+
+### 🏠 House Rent Prediction
+
+Machine learning project for predicting house rent prices using Python and Scikit-learn.
+
+🔗 [GitHub Repository](https://github.com/saherliaqat227-cell/House-Rent-Prediction-ML)
+
+### 📊 Seaborn Data Visualization
+
+Data visualization project using Pandas, Matplotlib, and Seaborn to explore the Titanic dataset.
+
+🔗 [GitHub Repository](https://github.com/saherliaqat227-cell/Seaborn-Data-Visualization)
+
+### 🐍 Python Hangman Game
+
+Interactive word-guessing game built with Python.
+
+🔗 [GitHub Repository](https://github.com/saherliaqat227-cell/CodeAlpha_HangmanGame)
+
+---
+
+## 📚 Certifications & Training
+
+* Microsoft Certified: Azure AI Fundamentals
+* Artificial Intelligence Training — NAVTTC
+* Python Programming with Django — Brains College
+
+---
+
+## 🎯 Currently Learning
+
+* Python Backend Development
+* FastAPI
+* REST API Development
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Database Development with MySQL
+
+---
+
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/saher-liaqat-27b5153b0/)
+* 🐙 [GitHub](https://github.com/saherliaqat227-cell)
+
+---
+
+⭐ Thanks for visiting my profile!
